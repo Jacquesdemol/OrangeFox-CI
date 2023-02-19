@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/mohammad92/android_kernel_samsung_a53x.git"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/mohammad92/android_kernel_samsung_a53x.git -b fox_12.1"
 
 export DEVICE="A53x"
 export OEM="Samsung"
